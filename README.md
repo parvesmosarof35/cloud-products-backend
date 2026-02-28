@@ -1,5 +1,7 @@
 Product Hunt Backend API
 
+a role base authentication include user , admin , superadmin
+
 A Node.js + Express backend application for handling authentication, payments, and database operations for a Product Hunt–style platform.
 
 📦 Tech Stack
